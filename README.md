@@ -92,6 +92,6 @@ We believe in building long-term partnerships through reliable engineering, inno
 
 <p align="center">
   <a href="https://atsol.io">Website</a> •
-  <a href="https://www.linkedin.com/company/atsol/">LinkedIn</a><br>
+  <a href="https://www.linkedin.com/company/atsol/">LinkedIn</a><br><br>
   <span>© 2021 Atsol Inc. All rights reserved.</span>
 </p>
