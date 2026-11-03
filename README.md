@@ -24,25 +24,6 @@ We provide end-to-end technology solutions, helping startups, growing businesses
 - **Cloud & DevOps** – Cloud infrastructure, CI/CD pipelines, deployment automation, and system optimization.
 - **UI/UX Engineering** – User-focused interfaces and intuitive digital experiences.
 
----
-
-## 🛠️ Technologies We Work With
-
-Our engineering teams work with modern technologies and frameworks to deliver scalable, maintainable, and production-ready solutions.
-
-| Category | Technologies |
-|---|---|
-| Backend | Python, Django, Django REST Framework, Node.js |
-| Frontend | React.js, Next.js, JavaScript, TypeScript |
-| Mobile | React Native, Flutter |
-| AI & Automation | OpenAI, LLMs, LangChain, AI Agents |
-| Databases | PostgreSQL, MySQL, MongoDB, Redis |
-| Cloud & Infrastructure | AWS, Docker, Kubernetes, Cloudflare |
-| E-commerce | Shopify, WordPress, WooCommerce |
-| Blockchain | Solidity, Ethereum, Web3 |
-| DevOps | GitHub Actions, CI/CD, Celery |
-
----
 
 ## 🎯 Our Approach
 
